@@ -550,21 +550,10 @@ credit-card-fraud-detection/
 │   ├── 06_roc_curves.png             # ROC comparison
 │   └── 07_threshold_optimization.png # Threshold plot
 │
-├── outputs/                          # Results
-│   ├── confusion_matrices/           # Confusion matrices
-│   ├── model_performance.csv         # Metrics comparison
-│   └── predictions.csv               # Model predictions
-│
+
 ├── docs/                             # Documentation
 │   ├── FINAL_Report.docx             # Technical report (15 pages)
-│   ├── Presentation_Notes.pdf        # Speaker notes
-│   └── Methodology.md                # Detailed methodology
-│
-└── notebooks/                        # R Markdown notebooks
-    ├── EDA.Rmd                       # Exploratory analysis
-    ├── Model_Comparison.Rmd          # Model comparison
-    └── Results_Summary.Rmd           # Results summary
-```
+
 
 ---
 
@@ -811,10 +800,12 @@ SOFTWARE.
 
 ## 📧 Contact
 
-**Vinh Tran**
-- Email: vtran13@tulane.edu
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+
+**Vinh Tran**  
+📧 Email: vinhtran170703@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/vinh-tran1707/)
+[GitHub](https://github.com/vinhtran1707)
+
 
 **Project Link:** [https://github.com/yourusername/credit-card-fraud-detection](https://github.com/yourusername/credit-card-fraud-detection)
 
@@ -846,6 +837,6 @@ SOFTWARE.
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Vinh Tran
 
 </div>
