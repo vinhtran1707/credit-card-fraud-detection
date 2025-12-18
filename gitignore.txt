@@ -1,0 +1,52 @@
+# R specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (too large for GitHub)
+data/creditcard.csv
+*.csv
+
+# Output files
+outputs/*.csv
+outputs/*.txt
+
+# Temporary files
+*.tmp
+*.log
+*.aux
+*.out
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# R packages
+packrat/lib*/
+renv/library/
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Documentation build
+docs/_build/
+site/
